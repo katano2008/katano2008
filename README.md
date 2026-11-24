@@ -52,13 +52,3 @@ Me chamo Kauã Katano, tenho 18 anos e moro em Guarulhos - SP. Atualmente curso 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
-<p>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevKatan0_/DevKatan0_/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevKatan0_/DevKatan0_/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevKatan0_/DevKatan0_/output/github-contribution-grid-snake.svg">
-</picture>
